@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ex10ActivityRetainState</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnShowMsgCaption">Show Message</string>
+    <string name="btnSetMessage1Caption">Set Message 1</string>
+    <string name="btnSetMessage2Caption">Set Message 2</string>
+    <string name="btnSetMessage3Caption">Set Message 3</string>
+    <string name="btnShowActivity02Caption">Go to Activity 02</string>
+
+    <string name="title_activity_activity02">Activity02</string>
+    <string name="Activity02_btnShowMsgCaption">Show Message</string>
+    <string name="Activity02_btnSetMessage1Caption">Set Message 1</string>
+    <string name="Activity02_btnSetMessage2Caption">Set Message 2</string>
+    <string name="Activity02_btnSetMessage3Caption">Set Message 3</string>
+
+</resources>

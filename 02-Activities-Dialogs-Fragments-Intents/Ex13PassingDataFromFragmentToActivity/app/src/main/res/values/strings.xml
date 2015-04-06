@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex13PassingDataFromFragmentToActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtMsg_hint"><i>Enter your text here</i></string>
+    <string name="title_activity_activity01">Using Frag Interface</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

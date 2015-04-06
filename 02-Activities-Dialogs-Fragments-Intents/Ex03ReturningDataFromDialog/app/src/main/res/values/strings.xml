@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ex03ReturningDataFromDialog</string>
+    <string name="activity_main_EnterNumberMsg">Enter a number:</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_simple_dialog_title">SimpleDialogActivity</string>
+    <string name="activity_simple_dialog_EnterMessage">Enter another number:</string>
+
+</resources>

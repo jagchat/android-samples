@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex05FragmentsDuringOrientation</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_fragment01_hello_msg">Hello from Fragment 1</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_fragment02_hello_msg">Hello from Fragment 2</string>
+</resources>

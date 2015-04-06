@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex12PassingDataFromActivityToFragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity01">Using Activity Method</string>
+    <string name="activity01_txtMsg_hint"><i>Enter your message here</i></string>
+    <string name="title_activity_activity02">Pass during Frag. Load</string>
+    <string name="title_activity_activity03">Using Activity Intent</string>
+    <string name="title_activity_activity04">Using Activity Interface</string>
+    <string name="title_activity_activity05">Using Frag Interface (during load)</string>
+</resources>

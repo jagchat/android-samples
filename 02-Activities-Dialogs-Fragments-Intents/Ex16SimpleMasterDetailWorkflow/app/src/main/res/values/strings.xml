@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex16SimpleMasterDetailWorkflow</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_city_info">CityInfoActivity</string>
+</resources>

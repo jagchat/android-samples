@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex04SimpleTwoFragments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_fragment01_HelloMessage">Hello first fragment</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_fragment02_HelloMessage">Hello second fragment</string>
+</resources>
